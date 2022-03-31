@@ -38,8 +38,8 @@ async def start_(client: Client, message: Message):
         photo=f"https://telegra.ph/file/432d82fb18c1e71a97188.jpg",
         caption=f"""**يتيح لك تشغيل الموسيقى والفيديو في المجموعات من خلال المكالمات الجديدة في تيلجرام 🎶!..
   💡 تعلم طريقة تشغيلي واوامر التحكم بي عن طريق الضغط علي زر  » 📚 الاوامر!  ...
-💞  تم برمجة البوت بواسطة [desha elfager](t.me/DeshaXBlacck) 
-Powered By [desha ʙᴏᴛꜱ](https://t.me/MUSTAR_X1) ...
+💞  تم برمجة البوت بواسطة [desha elfager](t.me/MUSTAR_X) 
+Powered By [desha ʙᴏᴛꜱ](https://t.me/MUSTAR_X) ...
 **""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -53,7 +53,7 @@ Powered By [desha ʙᴏᴛꜱ](https://t.me/MUSTAR_X1) ...
                         "الاوامر..📚", url=f"https://telegra.ph/𝙳𝙰𝚁𝙺𝙴𝙶𖣘-03-21"
                     ),
                     InlineKeyboardButton(
-                        "✹⃝⁦🇪🇬MUSTAR_X⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ✹⃝⁦🇪🇬..😺♥", url="https://t.me/MUSTAR_X"
+                        "MUSTAR_X..😺♥", url="https://t.me/MUSTAR_X"
                     )
                 ],
                 [
@@ -95,7 +95,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " ✹⃝⁦🇪🇬MUSTAR_X⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ✹⃝⁦🇪🇬 ⚒️", url=f"https://t.me/MUSTAR_X")
+                        " MUSTAR_X ⚒️", url=f"https://t.me/MUSTAR_X")
                 ]
             ]
         ),
